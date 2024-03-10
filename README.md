@@ -50,10 +50,6 @@ python main.py
 3. Use the navigation buttons to perform CRUD operations on criminal records.
 4. Utilize the search functionality to find specific criminal records based on desired criteria.
 
-## Contributors
-
-- Harshita
-- Jaganath
 
 ## License
 
